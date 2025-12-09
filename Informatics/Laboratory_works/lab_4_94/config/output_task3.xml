@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+  <schedule>
+    <item>
+      <name>Среда</name>
+      <class>
+        <item>
+          <time>11:30-13:00</time>
+          <weeks>
+            <item>2</item>
+            <item>4</item>
+            <item>6</item>
+            <item>8</item>
+            <item>10</item>
+            <item>16</item>
+          </weeks>
+          <subject>Операционные системы</subject>
+          <type>Лабораторная</type>
+          <teacher>Досалиев Дж. А.</teacher>
+          <room>301</room>
+        </item>
+        <item>
+          <time>13:10-14:40</time>
+          <weeks>
+            <item>2</item>
+            <item>4</item>
+            <item>6</item>
+            <item>8</item>
+            <item>10</item>
+            <item>16</item>
+          </weeks>
+          <subject>Операционные системы</subject>
+          <type>Практика</type>
+          <teacher>Досалиев Дж. А.</teacher>
+          <room>301</room>
+        </item>
+      </class>
+    </item>
+    <item>
+      <name>Пятница</name>
+      <class>
+      </class>
+    </item>
+  </schedule>
+</config>
